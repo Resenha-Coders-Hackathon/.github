@@ -1,1 +1,1 @@
-# .github
+# ResenhaCoders Team's
